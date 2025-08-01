@@ -115,7 +115,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=add
+CMAKE_PROJECT_NAME:STATIC=my_project
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=1.0
@@ -214,6 +214,15 @@ add_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 add_SOURCE_DIR:STATIC=C:/Users/ftt/Desktop/interlation/my
+
+//Value Computed by CMake
+my_project_BINARY_DIR:STATIC=C:/Users/ftt/Desktop/interlation/my/build
+
+//Value Computed by CMake
+my_project_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+my_project_SOURCE_DIR:STATIC=C:/Users/ftt/Desktop/interlation/my
 
 
 ########################

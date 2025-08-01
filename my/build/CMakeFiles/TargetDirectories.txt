@@ -1,3 +1,4 @@
 C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/add.dir
+C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/subtract.dir
 C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/ALL_BUILD.dir
 C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/ZERO_CHECK.dir

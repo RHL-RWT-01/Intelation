@@ -1,6 +1,6 @@
 ^C:\USERS\FTT\DESKTOP\INTERLATION\MY\BUILD\CMAKEFILES\06A6623CC92C8163D807AFF719C89785\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ftt/Desktop/interlation/my -BC:/Users/ftt/Desktop/interlation/my/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ftt/Desktop/interlation/my/build/add.sln
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/ftt/Desktop/interlation/my -BC:/Users/ftt/Desktop/interlation/my/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/ftt/Desktop/interlation/my/build/my_project.sln
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone

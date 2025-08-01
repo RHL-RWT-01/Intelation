@@ -178,6 +178,10 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
       <Project>{37E21BFA-C4F1-3A2E-8E57-5DCB11DD2922}</Project>
       <Name>add</Name>
     </ProjectReference>
+    <ProjectReference Include="C:\Users\ftt\Desktop\interlation\my\build\subtract.vcxproj">
+      <Project>{6CC784CD-1911-35CB-86E8-8E8C7394D7F7}</Project>
+      <Name>subtract</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
