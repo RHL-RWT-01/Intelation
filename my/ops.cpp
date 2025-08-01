@@ -34,7 +34,7 @@ int main()
         Decryptor decryptor(context, secret_key);
 
         int num1 = 6;
-        int num2 = 4;
+        int num2 = 3;
 
         // Encode as plaintexts
         Plaintext plain1(to_string(num1));
@@ -54,9 +54,9 @@ int main()
         decryptor.decrypt(encrypted_sum, decrypted_result);
 
         int result = stoi(decrypted_result.to_string());
-        cout << "Encrypted addition of " << num1 << " + " << num2 << " = " << result << endl;
+        cout << "Encrypted subtraction of " << num1 << " - " << num2 << " = " << result << endl;
 
-        if (result == (num1 + num2) % parms.plain_modulus().value())
+        if (result == (num1 - num2) % parms.plain_modulus().value())
             cout << "Result is correct." << endl;
         else
             cout << "Result is incorrect. Expected: " << (num1 + num2) % parms.plain_modulus().value() << endl;
