@@ -59,6 +59,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "message-v1"
@@ -76,7 +77,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.14+a129329f1 for .NET Framework
-      Build started 7/20/2025 6:06:44 PM.
+      Build started 8/5/2025 1:22:07 PM.
       
       Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\4.1.0-rc2\\CompilerIdC\\CompilerIdC.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -105,7 +106,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:02.76
+      Time Elapsed 00:00:03.76
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -161,6 +162,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.com"
@@ -191,6 +193,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
@@ -238,6 +241,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link.com"
@@ -312,6 +316,9 @@ events:
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/lld-link.com"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/lld-link.exe"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/lld-link"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/lld-link.com"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/lld-link.exe"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/lld-link"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link.com"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link.exe"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link"
@@ -342,6 +349,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
@@ -387,6 +395,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/link.com"
@@ -417,6 +426,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
@@ -462,6 +472,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/mt.com"
@@ -536,6 +547,9 @@ events:
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/mt.com"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/mt.exe"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/mt"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/mt.com"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/mt.exe"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/mt"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/mt.com"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/mt.exe"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/mt"
@@ -566,6 +580,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
@@ -611,6 +626,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lib.com"
@@ -641,6 +657,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
@@ -693,6 +710,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "message-v1"
@@ -710,7 +728,7 @@ events:
       The output was:
       0
       MSBuild version 17.14.14+a129329f1 for .NET Framework
-      Build started 7/20/2025 6:06:48 PM.
+      Build started 8/5/2025 1:22:12 PM.
       
       Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\4.1.0-rc2\\CompilerIdCXX\\CompilerIdCXX.vcxproj" on node 1 (default targets).
       PrepareForBuild:
@@ -739,7 +757,7 @@ events:
           0 Warning(s)
           0 Error(s)
       
-      Time Elapsed 00:00:02.99
+      Time Elapsed 00:00:02.62
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -795,6 +813,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
     searched_directories:
       - "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/VC/Tools/MSVC/14.44.35207/bin/Hostx64/x64/lld-link.com"
@@ -869,6 +888,9 @@ events:
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/lld-link.com"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/lld-link.exe"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/lld-link"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/lld-link.com"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/lld-link.exe"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/lld-link"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link.com"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link.exe"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/lld-link"
@@ -899,6 +921,7 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
   -
     kind: "find-v1"
@@ -946,6 +969,7 @@ events:
       - "C:/Users/ftt/Downloads/python-3.12.1/"
       - "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/"
       - "C:/Program Files/bin/"
       - "C:/Program Files/sbin/"
@@ -956,9 +980,9 @@ events:
       - "C:/Program Files/CMake/bin/"
       - "C:/Program Files/CMake/sbin/"
       - "C:/Program Files/CMake/"
-      - "C:/Program Files/add/bin/"
-      - "C:/Program Files/add/sbin/"
-      - "C:/Program Files/add/"
+      - "C:/Program Files (x86)/my_project/bin/"
+      - "C:/Program Files (x86)/my_project/sbin/"
+      - "C:/Program Files (x86)/my_project/"
     searched_directories:
       - "C:/MinGW/bin/rc.com"
       - "C:/MinGW/bin/rc.exe"
@@ -1029,6 +1053,9 @@ events:
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/rc.com"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/rc.exe"
       - "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/rc"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/rc.com"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/rc.exe"
+      - "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/rc"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/rc.com"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/rc.exe"
       - "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/rc"
@@ -1059,15 +1086,15 @@ events:
       - "C:/Program Files/CMake/rc.com"
       - "C:/Program Files/CMake/rc.exe"
       - "C:/Program Files/CMake/rc"
-      - "C:/Program Files/add/bin/rc.com"
-      - "C:/Program Files/add/bin/rc.exe"
-      - "C:/Program Files/add/bin/rc"
-      - "C:/Program Files/add/sbin/rc.com"
-      - "C:/Program Files/add/sbin/rc.exe"
-      - "C:/Program Files/add/sbin/rc"
-      - "C:/Program Files/add/rc.com"
-      - "C:/Program Files/add/rc.exe"
-      - "C:/Program Files/add/rc"
+      - "C:/Program Files (x86)/my_project/bin/rc.com"
+      - "C:/Program Files (x86)/my_project/bin/rc.exe"
+      - "C:/Program Files (x86)/my_project/bin/rc"
+      - "C:/Program Files (x86)/my_project/sbin/rc.com"
+      - "C:/Program Files (x86)/my_project/sbin/rc.exe"
+      - "C:/Program Files (x86)/my_project/sbin/rc"
+      - "C:/Program Files (x86)/my_project/rc.com"
+      - "C:/Program Files (x86)/my_project/rc.exe"
+      - "C:/Program Files (x86)/my_project/rc"
     found: false
     search_context:
       ENV{PATH}:
@@ -1095,13 +1122,14 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files/add"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/my_project"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files/add"
+        - "C:/Program Files (x86)/my_project"
   -
     kind: "try_compile-v1"
     backtrace:
@@ -1111,8 +1139,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-bkzn4h"
-      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-bkzn4h"
+      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-nly5y2"
+      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-nly5y2"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1121,40 +1149,40 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-bkzn4h'
+        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-nly5y2'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c261d.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b8ed6.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.14+a129329f1 for .NET Framework
-        Build started 7/20/2025 6:06:52 PM.
+        Build started 8/5/2025 1:22:17 PM.
         
-        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bkzn4h\\cmTC_c261d.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nly5y2\\cmTC_b8ed6.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_c261d.dir\\Debug\\".
+          Creating directory "cmTC_b8ed6.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bkzn4h\\Debug\\".
-          Creating directory "cmTC_c261d.dir\\Debug\\cmTC_c261d.tlog\\".
+          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nly5y2\\Debug\\".
+          Creating directory "cmTC_b8ed6.dir\\Debug\\cmTC_b8ed6.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_c261d.dir\\Debug\\cmTC_c261d.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_c261d.dir\\Debug\\cmTC_c261d.tlog\\unsuccessfulbuild".
+          Creating "cmTC_b8ed6.dir\\Debug\\cmTC_b8ed6.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_b8ed6.dir\\Debug\\cmTC_b8ed6.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_c261d.dir\\Debug\\\\" /Fd"cmTC_c261d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_b8ed6.dir\\Debug\\\\" /Fd"cmTC_b8ed6.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35213 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_c261d.dir\\Debug\\\\" /Fd"cmTC_c261d.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_b8ed6.dir\\Debug\\\\" /Fd"cmTC_b8ed6.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bkzn4h\\Debug\\cmTC_c261d.exe" /INCREMENTAL /ILK:"cmTC_c261d.dir\\Debug\\cmTC_c261d.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-bkzn4h/Debug/cmTC_c261d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-bkzn4h/Debug/cmTC_c261d.lib" /MACHINE:X64  /machine:x64 cmTC_c261d.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_c261d.vcxproj -> C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bkzn4h\\Debug\\cmTC_c261d.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nly5y2\\Debug\\cmTC_b8ed6.exe" /INCREMENTAL /ILK:"cmTC_b8ed6.dir\\Debug\\cmTC_b8ed6.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-nly5y2/Debug/cmTC_b8ed6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-nly5y2/Debug/cmTC_b8ed6.lib" /MACHINE:X64  /machine:x64 cmTC_b8ed6.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_b8ed6.vcxproj -> C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nly5y2\\Debug\\cmTC_b8ed6.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_c261d.dir\\Debug\\cmTC_c261d.tlog\\unsuccessfulbuild".
-          Touching "cmTC_c261d.dir\\Debug\\cmTC_c261d.tlog\\cmTC_c261d.lastbuildstate".
-        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-bkzn4h\\cmTC_c261d.vcxproj" (default targets).
+          Deleting file "cmTC_b8ed6.dir\\Debug\\cmTC_b8ed6.tlog\\unsuccessfulbuild".
+          Touching "cmTC_b8ed6.dir\\Debug\\cmTC_b8ed6.tlog\\cmTC_b8ed6.lastbuildstate".
+        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-nly5y2\\cmTC_b8ed6.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:03.12
+        Time Elapsed 00:00:01.80
         
       exitCode: 0
   -
@@ -1194,8 +1222,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-ehkrtp"
-      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-ehkrtp"
+      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-666i60"
+      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-666i60"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1205,40 +1233,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-ehkrtp'
+        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-666i60'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_653e7.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_72917.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.14+a129329f1 for .NET Framework
-        Build started 7/20/2025 6:06:57 PM.
+        Build started 8/5/2025 1:22:21 PM.
         
-        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehkrtp\\cmTC_653e7.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-666i60\\cmTC_72917.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_653e7.dir\\Debug\\".
+          Creating directory "cmTC_72917.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehkrtp\\Debug\\".
-          Creating directory "cmTC_653e7.dir\\Debug\\cmTC_653e7.tlog\\".
+          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-666i60\\Debug\\".
+          Creating directory "cmTC_72917.dir\\Debug\\cmTC_72917.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_653e7.dir\\Debug\\cmTC_653e7.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_653e7.dir\\Debug\\cmTC_653e7.tlog\\unsuccessfulbuild".
+          Creating "cmTC_72917.dir\\Debug\\cmTC_72917.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_72917.dir\\Debug\\cmTC_72917.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_653e7.dir\\Debug\\\\" /Fd"cmTC_653e7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_72917.dir\\Debug\\\\" /Fd"cmTC_72917.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35213 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_653e7.dir\\Debug\\\\" /Fd"cmTC_653e7.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /EHsc /RTC1 /MDd /GS /fp:precise /GR /Fo"cmTC_72917.dir\\Debug\\\\" /Fd"cmTC_72917.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\CMake\\share\\cmake-4.1\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehkrtp\\Debug\\cmTC_653e7.exe" /INCREMENTAL /ILK:"cmTC_653e7.dir\\Debug\\cmTC_653e7.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-ehkrtp/Debug/cmTC_653e7.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-ehkrtp/Debug/cmTC_653e7.lib" /MACHINE:X64  /machine:x64 cmTC_653e7.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_653e7.vcxproj -> C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehkrtp\\Debug\\cmTC_653e7.exe
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-666i60\\Debug\\cmTC_72917.exe" /INCREMENTAL /ILK:"cmTC_72917.dir\\Debug\\cmTC_72917.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-666i60/Debug/cmTC_72917.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-666i60/Debug/cmTC_72917.lib" /MACHINE:X64  /machine:x64 cmTC_72917.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_72917.vcxproj -> C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-666i60\\Debug\\cmTC_72917.exe
         FinalizeBuildStatus:
-          Deleting file "cmTC_653e7.dir\\Debug\\cmTC_653e7.tlog\\unsuccessfulbuild".
-          Touching "cmTC_653e7.dir\\Debug\\cmTC_653e7.tlog\\cmTC_653e7.lastbuildstate".
-        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-ehkrtp\\cmTC_653e7.vcxproj" (default targets).
+          Deleting file "cmTC_72917.dir\\Debug\\cmTC_72917.tlog\\unsuccessfulbuild".
+          Touching "cmTC_72917.dir\\Debug\\cmTC_72917.tlog\\cmTC_72917.lastbuildstate".
+        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-666i60\\cmTC_72917.vcxproj" (default targets).
         
         Build succeeded.
             0 Warning(s)
             0 Error(s)
         
-        Time Elapsed 00:00:04.08
+        Time Elapsed 00:00:01.96
         
       exitCode: 0
   -
@@ -1272,7 +1300,7 @@ events:
   -
     kind: "find_package-v1"
     backtrace:
-      - "CMakeLists.txt:9 (find_package)"
+      - "CMakeLists.txt:13 (find_package)"
     name: "SEAL"
     configs:
       -
@@ -1307,11 +1335,295 @@ events:
         CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
     candidates:
       -
-        path: "C:/Users/ftt/Desktop/interlation/SEAL/build/SEALConfig.cmake"
+        path: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/pkgRedirects/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/pkgRedirects/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/MinGW/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/MinGW/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/nodejs/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/nodejs/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Docker/Docker/resources/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Docker/Docker/resources/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/JetBrains/CLion 2025.1.3/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/JetBrains/CLion 2025.1.3/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/usr/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/usr/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/cmake/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/cmake/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Scripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Scripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Programs/Microsoft VS Code/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Programs/Microsoft VS Code/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/npm/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/npm/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found: null
+    search_context:
+      ENV{PATH}:
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\Java\\jdk-21\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\ftt\\anaconda3"
+        - "C:\\Users\\ftt\\anaconda3\\Library\\mingw-w64\\bin"
+        - "C:\\Users\\ftt\\anaconda3\\Library\\usr\\bin"
+        - "C:\\Users\\ftt\\anaconda3\\Library\\bin"
+        - "C:\\Users\\ftt\\anaconda3\\Scripts"
+        - "C:\\MinGW"
+        - "C:\\Users\\ftt\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\ftt\\AppData\\Roaming\\npm"
+        - "C:\\Users\\ftt\\Downloads\\python-3.12.1"
+        - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
+        - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/my_project"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/my_project"
+...
+
+---
+events:
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:13 (find_package)"
+    name: "SEAL"
+    configs:
+      -
+        filename: "SEALConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "seal-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "4.1"
+      version_complete: "4.1"
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "SEAL"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/path/to/seal/build/cmake/SEAL/SEALConfig.cmake"
         mode: "none?"
         reason: "no_exist"
       -
-        path: "C:/Users/ftt/Desktop/interlation/SEAL/build/seal-config.cmake"
+        path: "C:/path/to/seal/build/cmake/SEAL/seal-config.cmake"
         mode: "none?"
         reason: "no_exist"
       -
@@ -1483,6 +1795,14 @@ events:
         mode: "config"
         reason: "no_exist"
       -
+        path: "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
         path: "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/SEALConfig.cmake"
         mode: "config"
         reason: "no_exist"
@@ -1541,13 +1861,306 @@ events:
         - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
         - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
         - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
         - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
-      CMAKE_INSTALL_PREFIX: "C:/Program Files/add"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/my_project"
       CMAKE_SYSTEM_PREFIX_PATH:
         - "C:/Program Files"
         - "C:/Program Files (x86)"
         - "C:/Program Files/CMake"
-        - "C:/Program Files/add"
+        - "C:/Program Files (x86)/my_project"
+...
+
+---
+events:
+  -
+    kind: "find_package-v1"
+    backtrace:
+      - "CMakeLists.txt:13 (find_package)"
+    name: "SEAL"
+    configs:
+      -
+        filename: "SEALConfig.cmake"
+        kind: "cmake"
+      -
+        filename: "seal-config.cmake"
+        kind: "cmake"
+    version_request:
+      version: "4.1"
+      version_complete: "4.1"
+      exact: false
+    settings:
+      required: "required_explicit"
+      quiet: false
+      global: false
+      policy_scope: true
+      bypass_provider: false
+      names:
+        - "SEAL"
+      path_suffixes:
+        - ""
+      paths:
+        CMAKE_FIND_USE_CMAKE_PATH: true
+        CMAKE_FIND_USE_CMAKE_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_SYSTEM_ENVIRONMENT_PATH: true
+        CMAKE_FIND_USE_CMAKE_SYSTEM_PATH: true
+        CMAKE_FIND_USE_INSTALL_PREFIX: true
+        CMAKE_FIND_USE_PACKAGE_ROOT_PATH: true
+        CMAKE_FIND_USE_CMAKE_PACKAGE_REGISTRY: true
+        CMAKE_FIND_USE_SYSTEM_PACKAGE_REGISTRY: true
+        CMAKE_FIND_ROOT_PATH_MODE: "BOTH"
+    candidates:
+      -
+        path: "C:/users/ftt/Desktop/interlation/SEAL/build/cmake/SEAL/SEALConfig.cmake"
+        mode: "none?"
+        reason: "no_exist"
+      -
+        path: "C:/users/ftt/Desktop/interlation/SEAL/build/cmake/SEAL/seal-config.cmake"
+        mode: "none?"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/pkgRedirects/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/pkgRedirects/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/MinGW/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/MinGW/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/nodejs/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/nodejs/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Git/cmd/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/wbem/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/WindowsPowerShell/v1.0/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Windows/System32/OpenSSH/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Docker/Docker/resources/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/Docker/Docker/resources/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/JetBrains/CLion 2025.1.3/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/JetBrains/CLion 2025.1.3/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/usr/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/usr/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/cmake/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Library/cmake/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Scripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/anaconda3/Scripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Programs/Microsoft VS Code/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Programs/Microsoft VS Code/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/npm/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/npm/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Microsoft/WindowsApps/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0/LocalCache/local-packages/Python313/Scripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/.vscode/extensions/ms-python.debugpy-2025.11.2025072901-win32-x64/bundled/scripts/noConfigScripts/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Users/ftt/AppData/Roaming/Code/User/globalStorage/github.copilot-chat/debugCommand/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files/CMake/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/SEALConfig.cmake"
+        mode: "config"
+        reason: "no_exist"
+      -
+        path: "C:/Program Files (x86)/seal-config.cmake"
+        mode: "config"
+        reason: "no_exist"
+    found: null
+    search_context:
+      ENV{PATH}:
+        - "C:\\MinGW\\bin"
+        - "C:\\Program Files\\nodejs\\"
+        - "C:\\Program Files\\Git\\cmd"
+        - "C:\\Program Files\\Java\\jdk-21\\bin"
+        - "C:\\WINDOWS\\system32"
+        - "C:\\WINDOWS"
+        - "C:\\WINDOWS\\System32\\Wbem"
+        - "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\"
+        - "C:\\WINDOWS\\System32\\OpenSSH\\"
+        - "C:\\Program Files\\Docker\\Docker\\resources\\bin"
+        - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
+        - "C:\\Program Files\\CMake\\bin"
+        - "C:\\Users\\ftt\\anaconda3"
+        - "C:\\Users\\ftt\\anaconda3\\Library\\mingw-w64\\bin"
+        - "C:\\Users\\ftt\\anaconda3\\Library\\usr\\bin"
+        - "C:\\Users\\ftt\\anaconda3\\Library\\bin"
+        - "C:\\Users\\ftt\\anaconda3\\Scripts"
+        - "C:\\MinGW"
+        - "C:\\Users\\ftt\\AppData\\Local\\Programs\\Microsoft VS Code\\bin"
+        - "C:\\Users\\ftt\\AppData\\Roaming\\npm"
+        - "C:\\Users\\ftt\\Downloads\\python-3.12.1"
+        - "C:\\Program Files\\JetBrains\\CLion 2025.1.3\\bin"
+        - "C:\\Users\\ftt\\AppData\\Local\\Microsoft\\WindowsApps"
+        - "C:\\Users\\ftt\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.13_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python313\\Scripts"
+        - "c:\\Users\\ftt\\.vscode\\extensions\\ms-python.debugpy-2025.11.2025072901-win32-x64\\bundled\\scripts\\noConfigScripts"
+        - "c:\\Users\\ftt\\AppData\\Roaming\\Code\\User\\globalStorage\\github.copilot-chat\\debugCommand"
+      CMAKE_INSTALL_PREFIX: "C:/Program Files (x86)/my_project"
+      CMAKE_SYSTEM_PREFIX_PATH:
+        - "C:/Program Files"
+        - "C:/Program Files (x86)"
+        - "C:/Program Files/CMake"
+        - "C:/Program Files (x86)/my_project"
 ...
 
 ---
@@ -1560,14 +2173,14 @@ events:
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake:97 (check_c_source_compiles)"
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake:163 (_threads_check_libc)"
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake:78 (find_package)"
-      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:68 (find_dependency)"
-      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:138 (seal_find_dependency)"
-      - "CMakeLists.txt:9 (find_package)"
+      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:67 (find_dependency)"
+      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:137 (seal_find_dependency)"
+      - "CMakeLists.txt:13 (find_package)"
     checks:
       - "Performing Test CMAKE_HAVE_LIBC_PTHREAD"
     directories:
-      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-1imf3s"
-      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-1imf3s"
+      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-47032g"
+      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-47032g"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1577,40 +2190,40 @@ events:
       variable: "CMAKE_HAVE_LIBC_PTHREAD"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-1imf3s'
+        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-47032g'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_8dc81.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_38f90.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.14+a129329f1 for .NET Framework
-        Build started 7/20/2025 6:11:56 PM.
+        Build started 8/5/2025 1:27:31 PM.
         
-        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\cmTC_8dc81.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\cmTC_38f90.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_8dc81.dir\\Debug\\".
+          Creating directory "cmTC_38f90.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\Debug\\".
-          Creating directory "cmTC_8dc81.dir\\Debug\\cmTC_8dc81.tlog\\".
+          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\Debug\\".
+          Creating directory "cmTC_38f90.dir\\Debug\\cmTC_38f90.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_8dc81.dir\\Debug\\cmTC_8dc81.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_8dc81.dir\\Debug\\cmTC_8dc81.tlog\\unsuccessfulbuild".
+          Creating "cmTC_38f90.dir\\Debug\\cmTC_38f90.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_38f90.dir\\Debug\\cmTC_38f90.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_8dc81.dir\\Debug\\\\" /Fd"cmTC_8dc81.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\src.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_38f90.dir\\Debug\\\\" /Fd"cmTC_38f90.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\src.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35213 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_8dc81.dir\\Debug\\\\" /Fd"cmTC_8dc81.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\src.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CMAKE_HAVE_LIBC_PTHREAD /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_38f90.dir\\Debug\\\\" /Fd"cmTC_38f90.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\src.c"
           src.c
-        C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\cmTC_8dc81.vcxproj]
-        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\cmTC_8dc81.vcxproj" (default targets) -- FAILED.
+        C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\cmTC_38f90.vcxproj]
+        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\cmTC_38f90.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\cmTC_8dc81.vcxproj" (default target) (1) ->
+        "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\cmTC_38f90.vcxproj" (default target) (1) ->
         (ClCompile target) -> 
-          C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-1imf3s\\cmTC_8dc81.vcxproj]
+          C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\src.c(1,10): error C1083: Cannot open include file: 'pthread.h': No such file or directory [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-47032g\\cmTC_38f90.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:02.63
+        Time Elapsed 00:00:01.30
         
       exitCode: 1
   -
@@ -1620,14 +2233,14 @@ events:
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake:112 (check_library_exists)"
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake:175 (_threads_check_lib)"
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake:78 (find_package)"
-      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:68 (find_dependency)"
-      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:138 (seal_find_dependency)"
-      - "CMakeLists.txt:9 (find_package)"
+      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:67 (find_dependency)"
+      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:137 (seal_find_dependency)"
+      - "CMakeLists.txt:13 (find_package)"
     checks:
       - "Looking for pthread_create in pthreads"
     directories:
-      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-43soea"
-      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-43soea"
+      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-o59c5n"
+      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-o59c5n"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1637,42 +2250,42 @@ events:
       variable: "CMAKE_HAVE_PTHREADS_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-43soea'
+        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-o59c5n'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_ae3e9.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_b91a1.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.14+a129329f1 for .NET Framework
-        Build started 7/20/2025 6:11:59 PM.
+        Build started 8/5/2025 1:27:33 PM.
         
-        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\cmTC_ae3e9.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\cmTC_b91a1.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_ae3e9.dir\\Debug\\".
+          Creating directory "cmTC_b91a1.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\Debug\\".
-          Creating directory "cmTC_ae3e9.dir\\Debug\\cmTC_ae3e9.tlog\\".
+          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\Debug\\".
+          Creating directory "cmTC_b91a1.dir\\Debug\\cmTC_b91a1.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_ae3e9.dir\\Debug\\cmTC_ae3e9.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_ae3e9.dir\\Debug\\cmTC_ae3e9.tlog\\unsuccessfulbuild".
+          Creating "cmTC_b91a1.dir\\Debug\\cmTC_b91a1.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_b91a1.dir\\Debug\\cmTC_b91a1.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_ae3e9.dir\\Debug\\\\" /Fd"cmTC_ae3e9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\CheckFunctionExists.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_b91a1.dir\\Debug\\\\" /Fd"cmTC_b91a1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35213 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_ae3e9.dir\\Debug\\\\" /Fd"cmTC_ae3e9.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_b91a1.dir\\Debug\\\\" /Fd"cmTC_b91a1.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\Debug\\cmTC_ae3e9.exe" /INCREMENTAL /ILK:"cmTC_ae3e9.dir\\Debug\\cmTC_ae3e9.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-43soea/Debug/cmTC_ae3e9.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-43soea/Debug/cmTC_ae3e9.lib" /MACHINE:X64  /machine:x64 cmTC_ae3e9.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\cmTC_ae3e9.vcxproj]
-        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\cmTC_ae3e9.vcxproj" (default targets) -- FAILED.
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\Debug\\cmTC_b91a1.exe" /INCREMENTAL /ILK:"cmTC_b91a1.dir\\Debug\\cmTC_b91a1.ilk" /NOLOGO pthreads.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-o59c5n/Debug/cmTC_b91a1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-o59c5n/Debug/cmTC_b91a1.lib" /MACHINE:X64  /machine:x64 cmTC_b91a1.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\cmTC_b91a1.vcxproj]
+        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\cmTC_b91a1.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\cmTC_ae3e9.vcxproj" (default target) (1) ->
+        "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\cmTC_b91a1.vcxproj" (default target) (1) ->
         (Link target) -> 
-          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-43soea\\cmTC_ae3e9.vcxproj]
+          LINK : fatal error LNK1104: cannot open file 'pthreads.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-o59c5n\\cmTC_b91a1.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:02.64
+        Time Elapsed 00:00:01.44
         
       exitCode: 1
   -
@@ -1682,14 +2295,14 @@ events:
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake:112 (check_library_exists)"
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/FindThreads.cmake:176 (_threads_check_lib)"
       - "C:/Program Files/CMake/share/cmake-4.1/Modules/CMakeFindDependencyMacro.cmake:78 (find_package)"
-      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:68 (find_dependency)"
-      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:138 (seal_find_dependency)"
-      - "CMakeLists.txt:9 (find_package)"
+      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:67 (find_dependency)"
+      - "C:/Users/ftt/Desktop/interlation/SEAL/build/cmake/SEALConfig.cmake:137 (seal_find_dependency)"
+      - "CMakeLists.txt:13 (find_package)"
     checks:
       - "Looking for pthread_create in pthread"
     directories:
-      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-9j1avs"
-      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-9j1avs"
+      source: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-w5xps5"
+      binary: "C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-w5xps5"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -1699,42 +2312,42 @@ events:
       variable: "CMAKE_HAVE_PTHREAD_CREATE"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-9j1avs'
+        Change Dir: 'C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-w5xps5'
         
-        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_9390b.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files (x86)/Microsoft Visual Studio/2022/BuildTools/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5ba71.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         MSBuild version 17.14.14+a129329f1 for .NET Framework
-        Build started 7/20/2025 6:12:03 PM.
+        Build started 8/5/2025 1:27:36 PM.
         
-        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\cmTC_9390b.vcxproj" on node 1 (default targets).
+        Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\cmTC_5ba71.vcxproj" on node 1 (default targets).
         PrepareForBuild:
-          Creating directory "cmTC_9390b.dir\\Debug\\".
+          Creating directory "cmTC_5ba71.dir\\Debug\\".
           Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
-          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\Debug\\".
-          Creating directory "cmTC_9390b.dir\\Debug\\cmTC_9390b.tlog\\".
+          Creating directory "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\Debug\\".
+          Creating directory "cmTC_5ba71.dir\\Debug\\cmTC_5ba71.tlog\\".
         InitializeBuildStatus:
-          Creating "cmTC_9390b.dir\\Debug\\cmTC_9390b.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
-          Touching "cmTC_9390b.dir\\Debug\\cmTC_9390b.tlog\\unsuccessfulbuild".
+          Creating "cmTC_5ba71.dir\\Debug\\cmTC_5ba71.tlog\\unsuccessfulbuild" because "AlwaysCreate" was specified.
+          Touching "cmTC_5ba71.dir\\Debug\\cmTC_5ba71.tlog\\unsuccessfulbuild".
         ClCompile:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_9390b.dir\\Debug\\\\" /Fd"cmTC_9390b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\CheckFunctionExists.c"
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5ba71.dir\\Debug\\\\" /Fd"cmTC_5ba71.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\CheckFunctionExists.c"
           Microsoft (R) C/C++ Optimizing Compiler Version 19.44.35213 for x64
           Copyright (C) Microsoft Corporation.  All rights reserved.
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_9390b.dir\\Debug\\\\" /Fd"cmTC_9390b.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\CheckFunctionExists.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D CHECK_FUNCTION_EXISTS=pthread_create /D "CMAKE_INTDIR=\\"Debug\\"" /RTC1 /MDd /GS /fp:precise /Fo"cmTC_5ba71.dir\\Debug\\\\" /Fd"cmTC_5ba71.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\CheckFunctionExists.c"
           CheckFunctionExists.c
         Link:
-          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\Debug\\cmTC_9390b.exe" /INCREMENTAL /ILK:"cmTC_9390b.dir\\Debug\\cmTC_9390b.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-9j1avs/Debug/cmTC_9390b.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-9j1avs/Debug/cmTC_9390b.lib" /MACHINE:X64  /machine:x64 cmTC_9390b.dir\\Debug\\CheckFunctionExists.obj
-        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\cmTC_9390b.vcxproj]
-        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\cmTC_9390b.vcxproj" (default targets) -- FAILED.
+          C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\HostX64\\x64\\link.exe /OUT:"C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\Debug\\cmTC_5ba71.exe" /INCREMENTAL /ILK:"cmTC_5ba71.dir\\Debug\\cmTC_5ba71.ilk" /NOLOGO pthread.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-w5xps5/Debug/cmTC_5ba71.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /IMPLIB:"C:/Users/ftt/Desktop/interlation/my/build/CMakeFiles/CMakeScratch/TryCompile-w5xps5/Debug/cmTC_5ba71.lib" /MACHINE:X64  /machine:x64 cmTC_5ba71.dir\\Debug\\CheckFunctionExists.obj
+        LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\cmTC_5ba71.vcxproj]
+        Done Building Project "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\cmTC_5ba71.vcxproj" (default targets) -- FAILED.
         
         Build FAILED.
         
-        "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\cmTC_9390b.vcxproj" (default target) (1) ->
+        "C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\cmTC_5ba71.vcxproj" (default target) (1) ->
         (Link target) -> 
-          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-9j1avs\\cmTC_9390b.vcxproj]
+          LINK : fatal error LNK1104: cannot open file 'pthread.lib' [C:\\Users\\ftt\\Desktop\\interlation\\my\\build\\CMakeFiles\\CMakeScratch\\TryCompile-w5xps5\\cmTC_5ba71.vcxproj]
         
             0 Warning(s)
             1 Error(s)
         
-        Time Elapsed 00:00:02.48
+        Time Elapsed 00:00:01.41
         
       exitCode: 1
 ...

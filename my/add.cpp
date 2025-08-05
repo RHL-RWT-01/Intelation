@@ -7,6 +7,10 @@ using namespace seal;
 // encrypted addition using Microsoft SEAL library.
 int main()
 {
+    int hi;
+    cin>>hi;
+    cout << "Hello, SEAL! " << hi << endl;
+
     try
     {
         // 1. Set encryption parameters for BFV
@@ -53,7 +57,7 @@ int main()
         Plaintext decrypted_result;
         decryptor.decrypt(encrypted_sum, decrypted_result);
 
-        int result = stoi(decrypted_result.to_string());
+        int result = decrypted_result.to_string().empty() ? 0 : stoi(decrypted_result.to_string());
         cout << "Encrypted addition of " << num1 << " + " << num2 << " = " << result << endl;
 
         if (result == (num1 + num2) % parms.plain_modulus().value())
