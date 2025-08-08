@@ -31,8 +31,8 @@ std::string base64_encode(const std::vector<unsigned char> &buf) {
 
 class EncryptionServer {
 public:
-    // EncryptionServer(Pistache::Address addr)
-        : httpEndpoint(std::make_shared<Pistache::Http::Endpoint>(addr)) {
+    EncryptionServer(Pistache::Address addr)
+         : httpEndpoint(std::make_shared<Pistache::Http::Endpoint>(addr)) {
         setupSeal();
     }
 
