@@ -7,10 +7,6 @@ using namespace seal;
 // encrypted addition using Microsoft SEAL library.
 int main()
 {
-    int hi;
-    cin>>hi;
-    cout << "Hello, SEAL! " << hi << endl;
-
     try
     {
         // 1. Set encryption parameters for BFV
@@ -73,3 +69,4 @@ int main()
 
     return 0;
 }
+
